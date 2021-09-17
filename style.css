@@ -1,0 +1,75 @@
+#name {
+  font-size: 40px;
+  font-weight: bold;
+  color: black;
+  font-family: sans-serif;
+}
+
+#contact {
+  font-size: 12px;
+  font-family: sans-serif;
+  color: black;
+  position: relative;
+  left: 380px;
+  top: -200px;
+}
+
+#contact2 {
+  font-size: 12px;
+  font-family: sans-serif;
+  color: black;
+  position: relative;
+  left: 405px;
+  top: -200px;
+}
+
+#email {
+  font-size: 12px;
+  font-family: sans-serif;
+  color: black;
+  position: relative;
+  left: 405px;
+  top: -200px;
+}
+
+#skills {
+  font-size: 25px;
+  font-family: sans-serif;
+  color: blue;
+}
+
+#intro {
+  position: relative;
+  left: 30px;
+  top: 25px;
+}
+
+#languages {
+  font-size: 25px;
+  font-family: sans-serif;
+  color: blue;
+}
+
+#experience {
+  font-size: 25px;
+  font-family: sans-serif;
+  color: blue;
+}
+
+#education {
+  font-size: 25px;
+  font-family: sans-serif;
+  color: blue;
+}
+
+#boost{
+  font-size: 12px;
+  font-family: sans-serif;
+  color: black;
+  }
+  
+  #target{
+  font-size: 12px;
+  font-family: sans-serif;
+  color: black;
+  }
